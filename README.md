@@ -24,8 +24,7 @@ We developed a **Ghidra plugin** that:
 | File/Folder | Description |
 |-------------|-------------|
 | `recursive_syscall.c` | C file for syscall tracking and runtime introspection |
-| `depthTracing.py` | Python script for recursive call depth analysis |
-| `Wannabefinal.py` | Ghidra plugin for static control flow graph extraction |
+| `depthTracing.py` | Ghidra plugin for static control flow graph extraction  |
 | `Scholarly Paper.pdf` | Full research write-up submitted under GMU ECE |
 | `GHIDRA_SETUP.md` | Guide to install Ghidra and run the plugin |
 | `.gitignore` | Clean ignores for system/cache files |
